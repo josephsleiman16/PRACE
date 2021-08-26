@@ -4,3 +4,5 @@ Summer of High-Performance Computing (SoHPC) 2021 Internship hosted by PRACE, pa
 Project Description: https://summerofhpc.prace-ri.eu/neural-networks-in-quantum-chemistry-2/
 
 PRACE Blog: https://summerofhpc.prace-ri.eu/author/josephs/
+
+Software Used: Python, TensorFlow, DScribe, Keras, KerasTuner
